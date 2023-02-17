@@ -37,6 +37,6 @@ Portifolio:
  - PlayStore: https://play.google.com/store/apps/developer?id=Bruno+L+Santos
  - Linkedin: https://www.linkedin.com/in/bruno-l-santos-793086234/
 
-![APP image](https://raw.githubusercontent.com/sbrunolima/projects_images/main/Musics%20APP.png?token=GHSAT0AAAAAAB5QNL5PQ2B7KNZWWO3KSI4SY7O2V2A)
+![APP image](https://raw.githubusercontent.com/sbrunolima/images/main/Musics%20APP.png)
 
 Thanks!
