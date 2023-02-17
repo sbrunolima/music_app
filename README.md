@@ -3,6 +3,7 @@
  - A fully functional and fully open source online music app. If you want to use the code, it is FREE, I only ask that if possible, add the credit. For you to use it with your Backend, just go to the Providers folder and add the Backend link where it is written ('put your BackEnd JSON link here').
 
 Project details:
+
 Used tecnologies:
  - Flutter
  - Firebase
@@ -36,5 +37,6 @@ Portifolio:
  - PlayStore: https://play.google.com/store/apps/developer?id=Bruno+L+Santos
  - Linkedin: https://www.linkedin.com/in/bruno-l-santos-793086234/
 
+![APP image](https://raw.githubusercontent.com/sbrunolima/projects_images/main/Musics%20APP.png?token=GHSAT0AAAAAAB5QNL5PQ2B7KNZWWO3KSI4SY7O2V2A)
 
 Thanks!
